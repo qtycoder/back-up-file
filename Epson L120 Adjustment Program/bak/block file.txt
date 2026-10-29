@@ -1,0 +1,53 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+127.0.0.1	www.manga.com
+127.0.0.1	mangarock.com
+127.0.0.1	proxysite.cc
+127.0.0.1	xmovies8.ru
+127.0.0.1	subscene.com
+127.0.0.1	kgag.net
+127.0.0.1	myasiantv.com
+127.0.0.1	dramacrazy.com
+127.0.0.1	dramagalaxy.com
+127.0.0.1	gooddrama.com
+127.0.0.1	dramago.com
+127.0.0.1	dramabay.com
+127.0.0.1	quora.com
+127.0.0.1	koreandrama.org
+127.0.0.1	aminoapps.com
+127.0.0.1	spotify.com
+127.0.0.1	plusnetwork.com
+127.0.0.1	kissasian.ch
+127.0.0.1	dramafire.com
+127.0.0.1	proxysite.com
+127.0.0.1	mp4upload.com
+127.0.0.1	123movies.com
+127.0.0.1	www.youtube.com
+127.0.0.1	www.facebook.com
+127.0.0.1	www.google.com
+127.0.0.1	twitter.com
+127.0.0.1	instagram.com
+127.0.0.1	www.yahoo.com
+127.0.0.1	www.opera.com
+127.0.0.1	www.mozilla.org
+127.0.0.1	mail.google.com
